@@ -1,0 +1,17 @@
+Code Reviews:
+
+Other team members reviewed the pull requests, suggesting improvements and catching potential bugs.
+After revisions and approvals, the pull requests were ready for merging.
+Merging Branches:
+
+Alice’s feature-login and Bob’s feature-dashboard branches were merged into the master branch.
+The master branch was now updated with new, stable features.
+Branch Cleanup:
+
+After merging, Alice and Bob deleted their feature branches to keep the repository clean.
+The Happy Team:
+
+The team continued this process for every new feature, ensuring smooth and organized development.
+Project Phoenix grew into a robust application, thanks to the collaborative efforts and disciplined use of branches.
+Moral:
+Branches in GitHub allow teams to work independently on different features without interfering with the main codebase, ensuring a smooth and efficient development process.
