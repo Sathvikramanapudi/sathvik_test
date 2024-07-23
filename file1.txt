@@ -1,0 +1,12 @@
+Once upon a time in the land of GitHub:
+
+There was a team of developers working on a big project called "Project Phoenix."
+The Master Branch:
+
+The master branch was the main branch where the most stable version of the project lived.
+Everyone agreed that only fully tested and approved changes would be merged into the master branch.
+Creating New Branches:
+
+To avoid disrupting the master branch, each developer created their own branch.
+Alice created a branch named feature-login to work on the login functionality.
+Bob created a branch named feature-dashboard to build the user dashboard.
