@@ -1,0 +1,11 @@
+Working in Isolation:
+
+In their respective branches, Alice and Bob could make changes without affecting each other or the master branch.
+They committed their changes regularly to save their progress.
+Pushing Changes to GitHub:
+
+Alice and Bob pushed their branches to GitHub, making their work visible to the team.
+Creating Pull Requests:
+
+When Alice and Bob completed their features, they created pull requests to merge their branches into the master branch.
+The pull requests included descriptions of the changes and any issues resolved.
